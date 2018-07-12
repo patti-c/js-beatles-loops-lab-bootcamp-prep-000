@@ -32,7 +32,7 @@ function johnLennonFacts(arrayFacts) {
 function iLoveTheBeatles(loveNumber) {
   var loveArray = [];
   do {
-    
-  }
+    loveArray.push('I love the Beatles!')
+  } while 
   
 }
