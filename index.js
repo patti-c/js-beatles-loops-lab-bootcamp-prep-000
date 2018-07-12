@@ -31,6 +31,8 @@ function johnLennonFacts(arrayFacts) {
 
 function iLoveTheBeatles(loveNumber) {
   var loveArray = [];
-  
+  do {
+    
+  }
   
 }
