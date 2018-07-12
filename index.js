@@ -33,6 +33,7 @@ function iLoveTheBeatles(loveNumber) {
   var loveArray = [];
   do {
     loveArray.push('I love the Beatles!')
-  } while 
+    loveNumber--;
+  } while (loveNumber < 15)
   
 }
